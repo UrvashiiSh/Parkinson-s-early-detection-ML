@@ -99,14 +99,15 @@ Key findings include:
 
 ```text
 images/
-    Machine Learning pipeline
-    Workflow diagram
+    Machine Learning pipeline.png
+    Workflow diagram.png
 
 docs/
-    Methodology
-    Publication_details
+    Methodology.md
+    Publication_details.md
 
 README.md
+CITATION.cff
 ```
 
 

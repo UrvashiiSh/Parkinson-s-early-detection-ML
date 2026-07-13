@@ -8,7 +8,7 @@
 
 
 <br></br>
-<img width="1536" height="447" alt="Research Workflow for PD" src="https://github.com/user-attachments/assets/d6416ddc-47a7-4966-a89f-50b56478e4e3" />
+![Banner](images/Research_Workflow_PD.PNG)
 
 ---
 
@@ -48,7 +48,7 @@ The dataset was created by Athanasios Tsanas and Max Little of the University of
 ### Repository Purpose
 
 This repository showcases the published research, methodology, machine learning workflow, and key findings of the study.
-The source code used during the research is not publicly available.
+The implementation code used in the study is not included in this repository.
 
 
 ### Research Motivation
@@ -80,7 +80,7 @@ This research investigates the use of quantitative speech biomarkers for identif
 
 ### Machine Learning Pipeline
 
-<img width="1536" height="575" alt="ML pipeline for PD" src="https://github.com/user-attachments/assets/a60a17fc-9114-4a29-8050-cc262cf9a68a" />
+![Pipeline](images/ML_piplelines_PD.PNG)
 
 
 ### Key Findings

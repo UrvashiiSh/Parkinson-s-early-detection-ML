@@ -2,7 +2,7 @@
 
 ### Title
 
-Quantitative Hypokinetic Dysarthria as a Biomarker for Early Parkinson's Detection: A Machine Learning Approach
+**Quantitative Hypokinetic Dysarthria as a Biomarker for Early Parkinson's Detection: A Machine Learning Approach**
 
 ---
 
@@ -33,5 +33,26 @@ DOI: 10.1177/20552076261432053
 **Conclusion:** Speech-derived acoustic biomarkers, when paired with machine learning, especially ensemble methods, show strong potential for accurate, scalable, and cost effective assessment of PD severity. These findings highlight the potential of speech-derived acoustic biomarkers, coupled with machine learning, as scalable, cost-effective, and objective
 tools for improving diagnostic precision and enabling earlier intervention in PD.
 
-### Read the Paper
+### Keywords
+- Parkinson's Disease
+- Hypokinetic Dysarthria
+- Speech Biomarkers
+- Acoustic Analysis
+- UPDRS Prediction
+- Healthcare AI
+- Speech Processing
+
+
+### Official Publication
 **Official Link:** https://journals.sagepub.com/doi/10.1177/20552076261432053
+
+<br> 
+<br>
+
+---
+
+### Repository Note
+
+This repository accompanies the published research article and provides an overview of the methodology, workflow, and findings.
+
+The implementation code used during this research is not publicly available.

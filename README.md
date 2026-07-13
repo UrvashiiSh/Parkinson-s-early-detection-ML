@@ -1,7 +1,13 @@
-## AI-Powered Speech Analysis for Early Prediction of Parkinson's Disease
+<div align="center">
+<h1>AI-Powered Speech Analysis for Early Prediction of Parkinson's Disease </h1>
+</div>
 
-#### Quantitative Hypokinetic Dysarthria as a Biomarker for Early Parkinson's Detection: A Machine Learning Approach
+<div align="center">
+<h4> Quantitative Hypokinetic Dysarthria as a Biomarker for Early Parkinson's Detection: A Machine Learning Approach </h4>
+</div>
 
+
+<br></br>
 <img width="1536" height="447" alt="Research Workflow for PD" src="https://github.com/user-attachments/assets/d6416ddc-47a7-4966-a89f-50b56478e4e3" />
 
 ---
@@ -109,9 +115,10 @@ README.md
 This work demonstrates the potential of speech-derived acoustic biomarkers combined with machine learning to support earlier, scalable, and non-invasive assessment of Parkinson's disease.
 The findings contribute to ongoing research in digital health, speech analytics, and AI-assisted clinical decision support.
 
+---
+
 > [!NOTE]
-### Code Availability
-This repository documents the research methodology, machine learning workflow, and findings from the published paper.
-The implementation code is not publicly available.
-The implementation code associated with this publication is not publicly available.
-This repository is intended to document the research methodology and published findings.
+> **Code Availability:** This repository documents the research methodology, machine learning workflow, and findings from the published paper.
+> The implementation code is not publicly available.
+> The implementation code associated with this publication is not publicly available.
+> This repository is intended to document the research methodology and published findings.

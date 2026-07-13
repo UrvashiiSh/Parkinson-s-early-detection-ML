@@ -78,7 +78,7 @@ This research investigates the use of quantitative speech biomarkers for identif
 
 ## Machine Learning Pipeline
 
-<img width="985" height="366" alt="ML pipeline PD" src="https://github.com/user-attachments/assets/a2f2e374-7353-46fe-9709-02bbb83fe750" />
+<img width="1536" height="575" alt="ML pipeline for PD" src="https://github.com/user-attachments/assets/a60a17fc-9114-4a29-8050-cc262cf9a68a" />
 
 ---
 

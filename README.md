@@ -92,17 +92,13 @@ Key findings include:
 ### Repository Structure
 
 ```text
-assets/
+images/
+    Machine Learning pipeline
     Workflow diagram
 
-figures/
-    Machine Learning pipeline
-
 docs/
-    Detailed methodology
-
-references/
-    Publication details
+    Methodology
+    Publication_details
 
 README.md
 ```

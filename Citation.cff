@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "AI-Powered Speech Analysis for Early Prediction of Parkinson's Disease"
+message: "If you use this repository, please cite the associated publication."
+
+authors:
+  - family-names: Chauhan
+    given-names: Ritu
+  
+  - family-names: Sharma
+    given-names: Urvashi
+  
+  - family-names: Singh
+    given-names: Dhananjay
+
+doi: 10.1177/20552076261432053
+date-released: 2026-03-10
+journal: Digital Health (Sage Journals)
+url: "https://github.com/UrvashiiSh/Parkinson-s-early-detection-ML"

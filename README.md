@@ -9,8 +9,11 @@
 ## Published Research
 
 **Journal:** Digital Health (SAGE Journals)
+
 **Publication Date:** March 2026
+
 **DOI:** 10.1177/20552076261432053
+
 **Read the publication:** https://journals.sagepub.com/doi/10.1177/20552076261432053
 
 ---
@@ -31,7 +34,7 @@
 Parkinson's disease is a progressive neurodegenerative disorder where early diagnosis remains difficult due to subtle and heterogeneous symptoms. Speech impairments, particularly hypokinetic dysarthria, often appear in the early stages of the disease and can serve as objective, non-invasive biomarkers.
 This research investigates whether speech-derived acoustic features can be used with machine learning techniques to predict Parkinson's disease severity and support earlier clinical intervention.
 
-### Dataset
+#### Dataset
 
 The data used in this project is publicly available on Kaggle (https://www.kaggle.com/datasets/porinitahoque/parkinsons-telemonitoring). 
 The dataset was created by Athanasios Tsanas and Max Little of the University of Oxford, in collaboration with 10 medical centers in the US and Intel Corporation who developed the telemonitoring device to record the speech signals.
@@ -44,6 +47,7 @@ The source code used during the research is not publicly available.
 
 ---
 ## Research Motivation
+
 Traditional Parkinson's diagnosis often depends on motor symptoms that become apparent only after significant neurological degeneration.
 Speech analysis offers a scalable, low-cost, and non-invasive alternative capable of identifying subtle vocal changes associated with Parkinson's disease at much earlier stages.
 This research investigates the use of quantitative speech biomarkers for identifying Parkinson's disease at an early stage. The proposed machine learning approach demonstrates the potential of non-invasive speech analysis as a decision-support tool for clinical screening and future healthcare applications.

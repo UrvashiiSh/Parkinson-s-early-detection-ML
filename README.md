@@ -109,7 +109,7 @@ README.md
 This work demonstrates the potential of speech-derived acoustic biomarkers combined with machine learning to support earlier, scalable, and non-invasive assessment of Parkinson's disease.
 The findings contribute to ongoing research in digital health, speech analytics, and AI-assisted clinical decision support.
 
-
+> [!NOTE]
 ### Code Availability
 This repository documents the research methodology, machine learning workflow, and findings from the published paper.
 The implementation code is not publicly available.

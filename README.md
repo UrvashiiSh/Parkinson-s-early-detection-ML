@@ -2,7 +2,7 @@
 
 #### Quantitative Hypokinetic Dysarthria as a Biomarker for Early Parkinson's Detection: A Machine Learning Approach
 
-![Workflow](assets/workflow.png)
+<img width="1536" height="447" alt="Research Workflow for PD" src="https://github.com/user-attachments/assets/d6416ddc-47a7-4966-a89f-50b56478e4e3" />
 
 ---
 
